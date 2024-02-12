@@ -16,21 +16,21 @@
 
 See [my website](https://yusuf-roqib.vercel.app/) for more information!
 
-<h1> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='22px'> </h1>
+<h1 align="center"> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='22px'> </h1>
 
 
 
 
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufroqib&label=Profile%20views&color=0e75b6&style=flat" alt="yusufroqib" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=yusufroqib&label=Profile%20views&color=0e75b6&style=flat" alt="yusufroqib" /> </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufroqib&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufroqib&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
 
-<img  src="https://streak-stats.demolab.com?user=yusufroqib&theme=aura&hide_border=true&card_width=550"/>
-<img  src="https://github-readme-stats.vercel.app/api?username=yusufroqib&theme=aura&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/></br>
+<p align="center"><img  src="https://streak-stats.demolab.com?user=yusufroqib&theme=aura&hide_border=true&card_width=550"/> </p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=yusufroqib&theme=aura&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/> </p></br>
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=yusufroqib&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=yusufroqib&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
 
 </div>
 
