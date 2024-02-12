@@ -49,6 +49,8 @@ See [my website](https://yusuf-roqib.vercel.app/) for more information!
   <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
   <img src="https://img.shields.io/static/v1?label=|&message=TAILWIND&color=4a935c&style=plastic&logo=tailwindcss"/>
   <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=4a935c&style=plastic&logo=node.js"/>
+  <img src="https://img.shields.io/static/v1?label=|&message=REDUX&color=4a935c&style=plastic&logo=redux"/>
+
   
 
   <!--  <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/>
