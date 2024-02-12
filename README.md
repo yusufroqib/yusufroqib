@@ -12,7 +12,7 @@
   </a>
 </p>
 
- I am a Developer driven by the power of technology with a background in Computer Science and Community Management. Ready to contribute to impactful projects. Currently exploring the possibilities with Web3 and Full Stack Engineering
+ I am a Developer driven by the power of technology with a background in Computer Engineering. Ready to contribute to impactful projects. Currently exploring the possibilities with Web3 and Full Stack Engineering
 
 See [my website](https://yusuf-roqib.vercel.app/) for more information!
 
