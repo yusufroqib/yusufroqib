@@ -25,10 +25,12 @@ See [my website](https://yusuf-roqib.vercel.app/) for more information!
 <div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufroqib&label=Profile%20views&color=0e75b6&style=flat" alt="yusufroqib" /> </p>
 
-
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufroqib&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
 
 <img  src="https://streak-stats.demolab.com?user=yusufroqib&theme=aura&hide_border=true&card_width=550"/>
 <img  src="https://github-readme-stats.vercel.app/api?username=yusufroqib&theme=aura&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/></br>
+
+<p><img src="https://github-profile-trophy.vercel.app/?username=yusufroqib&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
 
 </div>
 
@@ -42,6 +44,7 @@ See [my website](https://yusuf-roqib.vercel.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=2b625f&style=plastic&logo=sass"/>
     <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
+  <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
