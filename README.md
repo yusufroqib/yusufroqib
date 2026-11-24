@@ -44,6 +44,7 @@ See [my website](https://yusuf-roqib.vercel.app/) for more information!
   <img src="https://img.shields.io/static/v1?label=|&message=REDUX&color=4a935c&style=plastic&logo=redux"/>
   <img src="https://img.shields.io/static/v1?label=|&message=REDIX&color=4a935c&style=plastic&logo=redis"/>
   <img src="https://img.shields.io/static/v1?label=|&message=NEST&color=4a935c&style=plastic&logo=nestjs"/>
+  <img src="https://img.shields.io/static/v1?label=|&message=POSTGRESQL&color=4a935c&style=plastic&logo=postgresql"/>
 
   
 
